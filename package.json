@@ -32,7 +32,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@lavanet/ref-sdk",
+  "name": "@magma-devs/ref-sdk",
   "author": "Ref Finance & Magma Devs",
   "module": "dist/ref-sdk.esm.js",
   "size-limit": [
